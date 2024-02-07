@@ -1,9 +1,5 @@
-# python-console-basic-calculator
+# Python Basic Console Calculator 🧮
 🐍 A Python Script , Simple Console Based Calculator 🧮
-
-# 📍🌐 Python Weather Notifier 🌦️🌍
-
-Python script for automatic weather notifications every 2 hours based on your location. 🌦️📧
 
 ## Overview
 
